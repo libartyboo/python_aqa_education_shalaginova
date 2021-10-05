@@ -1,1 +1,2 @@
-Elizaveta Shalaginova 
+Elizaveta Shalaginova
+Алексей Рубель
