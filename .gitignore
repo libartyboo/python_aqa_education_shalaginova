@@ -1,5 +1,7 @@
 my_env
 /my.txt
+game_log.log
+test.py
 .idea
 .pyc
 __pycache__
