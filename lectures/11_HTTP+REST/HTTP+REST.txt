@@ -1,0 +1,15 @@
+Basics of HTTP - https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP
+Overview of HTTP - https://developer.mozilla.org/ru/docs/Web/HTTP/Overview
+HTTP коды ответа - https://developer.mozilla.org/ru/docs/Web/HTTP/Status
+Evolution of HTTP - https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+HTTP Messages - https://developer.mozilla.org/ru/docs/Web/HTTP/Messages
+Базовая сессия - https://developer.mozilla.org/ru/docs/Web/HTTP/Session
+
+Connection management in HTTP/1.x - https://developer.mozilla.org/ru/docs/Web/HTTP/Connection_management_in_HTTP_1.x
+Cookie security - https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+X-Content-Type-Options - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options
+X-Frame-Options - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+
+
+REST - https://medium.com/@andr.ivas12/rest-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC-%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC-90a0bca0bc78
+CRUD - https://www.codecademy.com/articles/what-is-crud
